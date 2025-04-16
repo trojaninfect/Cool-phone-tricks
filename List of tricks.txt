@@ -1,0 +1,14 @@
+
+Code	Feature	Description
+*67	Caller ID Block	Hides your number when calling.
+*69	Call Return	Calls the last number that called you.
+*70	Call Waiting Disable	Turns off call waiting for the current call.
+*72	Call Forwarding Activate	Forwards calls to another number. You'll usually be prompted to enter it.
+*73	Call Forwarding Deactivate	Cancels call forwarding.
+*57	Call Trace	Logs the last threatening/harassing call with the phone company. Might require law enforcement follow-up.
+*77	Anonymous Call Rejection	Blocks calls from people using *67.
+*82	Unblock Caller ID	Overrides your permanent Caller ID block (lets your number be seen).
+*60	Call Block List Setup	Lets you block specific numbers. May vary by provider.
+*61	Add to Block List	Adds the last caller to your block list.
+*92	Busy Call Forwarding	Forwards calls only when the line is busy.
+*93	Cancel Busy Forwarding	Stops *92 behavior.
